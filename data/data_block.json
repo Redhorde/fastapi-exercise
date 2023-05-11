@@ -1,0 +1,28 @@
+[
+  {
+    "id": "680d1cbf-8350-484e-bf31-a0a27610f4f8",
+    "type": "length",
+    "value": [
+      0
+    ],
+    "comment": null
+  },
+  {
+    "id": "680d1cbf-8350-484e-bf31-a0a27610f4f9",
+    "type": "depth",
+    "value": [
+      31.54
+    ],
+    "comment": null
+  },
+  {
+    "id": "680d1cbf-8350-484e-bf31-a0a27610f4f7",
+    "type": "length",
+    "value": [
+      131,
+      15,
+      49
+    ],
+    "comment": "This is the good one"
+  }
+]
